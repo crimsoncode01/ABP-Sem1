@@ -13,7 +13,8 @@
 | NOME              | FUNÇÂO        | GITHUB                                                    |
 |-------------------|---------------|-----------------------------------------------------------|
 | Márcio Bueno      | Scrum Master  | [MarcioBuenoo](https://github.com/MarcioBuenoo)           |
-| Leonardo Broinizi | Project Owner | [Leonardo-Broinizi](https://github.com/Leonardo-Broinizi) |
+| Rodrigo Avelino   | Project Owner |
+| Leonardo Broinizi | Dev. Team     | [Leonardo-Broinizi](https://github.com/Leonardo-Broinizi) |
 | Bruno Mark        | Dev. Team     | [bruno-mark](https://github.com/bruno-mark)               |
 | Davi Snaider      | Dev. Team     | [davisnaider06](https://github.com/davisnaider06)         |
 | Vinicius Ledro    | Dev. Team     | [ViniciusLedro](https://github.com/ViniciusLedro)         |
