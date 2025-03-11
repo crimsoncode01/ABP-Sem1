@@ -3,11 +3,16 @@
 # CRIMSONCODE. 🟥
 
 <div align=center>
-<img src=imagens/Logo.jpeg height=320px alt="Logo CrimsonCode.">
+ <img src=imagens/Logo.jpeg height=320px alt="Logo CrimsonCode.">
 </div>
 
 ## SOBRE O PROJETO
+
 <p>Este repositório é destinado ao projeto integrado, desenvolvido no 1º Semestre de DSM. FATEC/SP -Jacareí</p>
+<h3>Tecnologias</h3>
+<div>
+ <img scr>
+</div>
 
 ## EQUIPE💻
 
