@@ -1,0 +1,6 @@
+Conversar com cliente e fazer elicitação: Rodrigo Avelino/Product Owner
+Atuar como facilitador e ajudar Dev. Team: Márcio Bueno/Scrum Master
+Desenvolver Aplicação: Dev. Team, Scrum Master e P.O
+Desenvolver diagrama de caso de uso: Vinicius Ledro/Dev. Team
+Realizar a sprint Review: P.O, Scrum Master e Dev. Team
+Daily: P.O e Scrum Master conduzem e Dev. Team participa.
