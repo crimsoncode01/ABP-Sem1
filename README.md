@@ -1,10 +1,13 @@
 <h1 align="center" >DSM FATEC/SP - Jacareí</h1>
 
 # CRIMSONCODE. 🟥
-<p>Este repositório é destinado ao projeto integrado, desenvolvido no 1º Semestre de DSM. FATEC/SP -Jacareí</p>
+
+<div align=center>
+<img src=imagens/Logo.jpeg height=320px alt="Logo CrimsonCode.">
+</div>
 
 ## SOBRE O PROJETO
-<p></p>
+<p>Este repositório é destinado ao projeto integrado, desenvolvido no 1º Semestre de DSM. FATEC/SP -Jacareí</p>
 
 ## EQUIPE💻
 
